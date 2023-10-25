@@ -57,8 +57,6 @@ As of today (10/25/2023) the latest release in this repository is:
 - Reassemble Touchscreen housing.
 - Done.
 
-
 <h4>WARNING:</h4> This firmwre is provided AS-IS from Elegoo to MandicReally. MandicReally makes no claims of safety, security, or code integrity. We are NOT RESPONSIBLE for any issues or errors this firmware or installation of it may cause. Use and update at YOUR OWN RISK.
 
-
-**License:** Released under GPL-3 Open Source License. Source files not provided by Elegoo for this specific release yet. Check Elegoo's Repositories for updated information.
+<h4>License:</h4> Released under GPL-3 Open Source License. Source files not provided by Elegoo for this specific release yet. Check Elegoo's Repositories for updated information.
