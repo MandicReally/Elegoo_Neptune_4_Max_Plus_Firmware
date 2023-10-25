@@ -15,6 +15,7 @@ As of today (10/25/2023) the latest release in this repository is:
 <h2>Update Instructions:</h2> ( Clarified by MandicReally based on Elegoo's DOC.)
 
 <h3>Mainboard:</h3>
+
 - Ensure the Neptune 4 Max is properly powered & won't accidentally shut off.
 - Extract ZIP file contents to your computer.
 - Insert the USB stick from the machine into your computer.
@@ -29,6 +30,7 @@ As of today (10/25/2023) the latest release in this repository is:
 - IF Firmware Version DOES NOT Match, reattempt installation. (I had to do this twice before it actually took.)
 
 <h3>Touchscreen Firmware:</h3>
+
 - Power off the machine.
 - Extract the Firmware file to your computer: (UI_4&4Pro-Universal firmware)
 - Take the provided MicroSD card (TF Card) & insert it into your computer.
