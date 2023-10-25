@@ -39,15 +39,15 @@ As of today (10/25/2023) the latest release in this repository is:
 - Remove the touchscreen from its cradle.
 - Flip over touchscreen & remove the 4 screws on the back housing.
 - Remove the back housing.
-(UI_4&4Pro-Universal firmware/Images/Housing01.png)
+<img src="/UI_4&4Pro-Universal firmware/Images/Housing01.png" alt="Back Housing" style="max-width: 100%;">
 - Insert the SD Card into the SD Slot on the Touchscreen board.
-(UI_4&4Pro-Universal firmware/Images/SD_Slot.png)
+<img src="/UI_4&4Pro-Universal firmware/Images/SD_Slot.png" alt="SD Slot" style="max-width: 100%;">
 - Set aside screen ensure it doesn't touch anything conductive, have the screen visible.
 - Power on the Machine, DO NOT POWER OFF UNTIL UPDATE IS COMPLETE.
 - Screen should display update text:
-(UI_4&4Pro-Universal firmware/Images/Update_01.png)
+<img src="/UI_4&4Pro-Universal firmware/Images/Update_01.png" alt="Update Text Start" style="max-width: 100%;">
 - Update is complete when following text displays
-(UI_4&4Pro-Universal firmware/Images/Update_02.png)
+<img src="/UI_4&4Pro-Universal firmware/Images/Update_02.png" alt="Update Text Complete" style="max-width: 100%;">
 - Power off Machine.
 - Remove SD Card from Touchscreen Board
 - Reassemble Touchscreen housing.
