@@ -48,8 +48,10 @@ As of today (10/25/2023) the latest release in this repository is:
 - Power on the Machine, DO NOT POWER OFF UNTIL UPDATE IS COMPLETE.
 - Screen should display update text:
 <img src="/UI_4&4Pro-Universal firmware/Images/Update_01.png" alt="Update Text Start" style="max-width: 100%;">
+
 - Update is complete when following text displays
 <img src="/UI_4&4Pro-Universal firmware/Images/Update_02.png" alt="Update Text Complete" style="max-width: 100%;">
+
 - Power off Machine.
 - Remove SD Card from Touchscreen Board
 - Reassemble Touchscreen housing.
