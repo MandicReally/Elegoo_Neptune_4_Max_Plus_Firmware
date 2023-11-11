@@ -1,13 +1,16 @@
-# Elegoo_Neptune_4_Max
+# Elegoo_Neptune_4_Max_Plus_Firmware
 
 Firmware update files for the Elegoo Neptune 4 Max provided to MandicReally by Elegoo.
 - Elegoo Neptune 4 Max: https://tinyurl.com/Neptune4Max (affiliate link)
 - Elegoo Neptune 4 Plus: https://tinyurl.com/Neptune4Plus (affiliate link)
 
 As of today (11/11/2023) the latest release in this repository is:
-- Mainboard Firmware: [1.2.2.51 BETA](4max-Firmware/4max_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
-- Screen UI Firmware: [1.2.11](UI_Touchscreen_Firmware_N4Max/ui_1.2.11_231012.tft)
- 
+- Neptune 4 Max Mainboard Firmware: [1.2.2.51 BETA](4max-Firmware/4max_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
+- Neptune 4 Max Screen UI Firmware: [1.2.11](UI_Touchscreen_Firmware_N4Max/ui_1.2.11_231012.tft)
+
+- Neptune 4 PLUS Mainboard Firmware: [1.2.2.51 BETA](Neptune4plus-Firmware/4plus_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
+- Neptune 4 PLUS UI Firmware: [1.2.11](UI_Touchscreen_Firmware_N4Max/ui_1.2.11_231012.tft)
+- 
 **NOTE:** Please check Elegoo's website or repository for the latest releases. These were provided to me on October 17th 2023 (10/17/2023).
 - Elegoo's Firnware GitHub Repository: https://github.com/NARUTOfzr
 - Elegoo's Main Github: https://github.com/elegooofficial
@@ -17,7 +20,7 @@ As of today (11/11/2023) the latest release in this repository is:
 
 <h3>Mainboard:</h3>
 
-- Ensure the Neptune 4 Max is properly powered & won't accidentally shut off.
+- Ensure the Neptune 4 Max/Plus is properly powered & won't accidentally shut off.
 - Extract ZIP file contents to your computer.
 - Insert the USB stick from the machine into your computer.
 - Copy the contents of the firmware version folder onto the root directory of your USB Stick.
