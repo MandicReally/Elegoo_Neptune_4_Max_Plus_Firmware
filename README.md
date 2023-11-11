@@ -5,8 +5,8 @@ Firmware update files for the Elegoo Neptune 4 Max provided to MandicReally by E
 - 
 
 As of today (11/11/2023) the latest release in this repository is:
-- Mainboard Firmware: [1.2.2.34](4max-Firmware/4max_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
-- Screen UI Firmware: [1.2.9](UI_Touchscreen_Firmware_N4Max/ui_1.2.9_20230926.tft)
+- Mainboard Firmware: [1.2.2.51 BETA](4max-Firmware/4max_1.2.2.51_1.2.11_cfg1.3_beta/ELEGOO_UPDATE_DIR)
+- Screen UI Firmware: [1.2.11](UI_Touchscreen_Firmware_N4Max/ui_1.2.11_231012.tft)
  
 **NOTE:** Please check Elegoo's website or repository for the latest releases. These were provided to me on October 17th 2023 (10/17/2023).
 - Elegoo's Firnware GitHub Repository: https://github.com/NARUTOfzr
